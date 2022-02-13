@@ -1,0 +1,17 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+.vsmm{
+
+    color: rgb(145, 255, 0);
+    text-align: justify;
+    font-size: larger;
+
+}
+.vsmm_img{
+
+    width: 100vw;
+    height: auto;
+}

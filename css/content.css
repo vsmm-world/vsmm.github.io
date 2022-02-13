@@ -1,0 +1,25 @@
+/* .content{
+
+    font-size: medium;
+} */
+.center{
+    /* display: flex;
+    position: sticky; */
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+}
+.content_img{
+
+width: 50vw;
+height: auto;
+}
+.b{
+    color: blueviolet;
+     font-size: 4vh;
+}
+.large{
+
+    font-size: 4vh;
+}

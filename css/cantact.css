@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.cantact{
+
+    /* color:rgb(101, 111, 252); */
+    color: lime;
+    font-size: larger;
+
+}
+.socialmedia{
+
+    height: 3vh;
+    width: auto;
+}
+.linkc{
+
+    color:aqua;
+}
+.address{
+
+     display: flexbox;
+     position: fixed;
+     right: 40vw;
+     left: 40vw;
+    color: rgb(255, 1, 107);
+}

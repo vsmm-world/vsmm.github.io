@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a1{
+    padding: 2px;
+    display: inline-block;
+
+}
+.li{     
+    color: antiquewhite;
+    text-decoration: none;
+   
+}
+.login{
+
+color: limegreen;
+position: absolute;
+right: 0px;
+}
+.input-text{
+
+    height: 5vh;
+    width: 5vh;
+}

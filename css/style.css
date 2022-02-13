@@ -1,0 +1,121 @@
+*{
+
+    margin: 0;
+    padding: 0;
+   
+    background-size: cover; 
+    /* height: 50px;
+    width: 50px; */
+}
+
+.link{
+
+    color: rgb(0, 255, 200);
+}
+.about{
+
+    color:lime;
+    font-size: larger;
+
+}
+.login{
+
+    text-align: right;
+    display: inline-block;
+}
+
+.body{
+
+    background-image: url(/img/green-code.jpg); 
+    /* background-color: white; */
+
+}
+
+.bg{
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    /* height: 4000px; */
+}
+h3{
+
+    color: greenyellow;
+    text-align: left;
+    font-size: 5vh; 
+
+}
+.content{
+
+    padding-left: 2vw;
+    text-align: center;
+    font-size: 3vh; 
+}
+
+.bg2{
+
+    font-family: 'Quintessential', cursive;
+    /* height:"device-height"; */
+ 
+    
+    height: 50vh;
+    color: red;
+}
+.head{
+    display: inline;
+
+    text-decoration: none;
+}
+.ul{
+    padding: 10px;
+    text-decoration: none;
+}
+.heading{
+
+    padding: 1px;
+    color: red;
+    font-size: larger;
+    text-align: center;
+    font-size: 5vh; 
+    
+}
+.subheading{
+    padding: 1px;
+    color: lime;
+    font-size: larger;  
+    text-align: center;
+    font-size: 4vh; 
+
+
+}
+.a1{
+    padding: 5px;
+    display: inline-block;
+
+}
+.li{     
+    color:blue ;
+    text-decoration: none;
+   
+}
+ .header{
+     
+    background-color: black;
+    height: 8vh;
+    color: red; 
+    display: flex;
+    position: sticky;
+    bottom: 0px;
+    font-size: 3vh;
+}
+
+.footer{
+    align-content: center;
+    text-align:center;
+    font-size: larger;
+    color: lime;
+}
+.gtpc{
+
+    width: 100vw;
+    height: auto;
+}
